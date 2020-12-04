@@ -1,0 +1,26 @@
+ER:date = DateEntry(root, width=18, height=5, background="blue", foreground="white")
+date.grid(row=1, column=1, columnspan=5, pady=10, padx=10, ipadx=100)
+from tkcalendar import DateEntry
+
+Rad: https://www.w3schools.com/python/python_mysql_orderby.asp#:~:text=Use%20the%20ORDER%20BY%20statement,order%2C%20use%20the%20DESC%20keyword.
+https://stackoverflow.com/questions/58678132/how-to-sort-database-with-python
+
+Ramon Stephen Ruiz7:46 AM
+Turn on recording.
+Ramon Stephen Ruiz7:49 AM
+Mr. Domingo is not around?
+Emmanuel Renaldo C. MALINO7:53 AM
+nagpresent po siya dun sa chatroom
+Rad Dominic P. DOMINGO7:56 AM
+Alam niyo pano ginagawang .md yung sa github?
+Emmanuel Renaldo C. MALINO8:01 AM
+Di parin ako pinapayagan ng meet mag present
+pano ba ayusin un
+Ramon Stephen Ruiz9:00 AM
+Populate your trello board.
+You10:29 AM
+er ilang percent na code natin?
+Emmanuel Renaldo C. MALINO10:29 AM
+Siguro mga nasa 60% na 
+You10:29 AM
+sige tuloy nalang mamaya 10:30 na

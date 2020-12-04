@@ -1,0 +1,20 @@
+Emmanuel Renaldo C. MALINO8:00 AM
+Di ako makapag present
+Rad Dominic P. DOMINGO8:55 AM
+Jordan lagyan mo kaya ng date?
+Emmanuel Renaldo C. MALINO8:55 AM
+Pati yung parang dropdown menu
+You8:55 AM
+sige lagyan ko
+Rad Dominic P. DOMINGO8:55 AM
+Yung parang may dropdown 
+You8:56 AM
+so ito palang laman ng gui
+nakita niyo ba?
+Emmanuel Renaldo C. MALINO8:57 AM
+Oo pre
+san napunta yung ininput?
+You8:58 AM
+automatic na nagsasave sa text file
+may problema nga lang
+pag naginput user, nag ooverwrite

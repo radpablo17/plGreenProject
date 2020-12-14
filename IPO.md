@@ -1,4 +1,5 @@
 |Input|Process|Output|
-|Date|||
-|Name|Save to database|Breakdown of expenses|
+|-----|-------|------|
+|Date|Save to database|Breakdown of expenses|
+|Name|||
 |Breakdown of expenses|||

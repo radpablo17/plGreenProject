@@ -2,7 +2,7 @@
 
 Expense Tracker
 
-Features: DataBase, GUI, monthly and yearly expense
+Features: DataBase, GUI, Monthly and Yearly Expense
 
 ## Members
 Alcantara, Jordan Philip De L. (Rapporteur)
